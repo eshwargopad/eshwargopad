@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Java Development , JavaFX , Maven , MySQL , JDBC , Spring , Spring Boot , AOP , Spring Security , Hibernate , Rest API**
 
-- 👨‍💻 All of my projects are available at [https://github.com/eshwargopad?tab=following](https://github.com/eshwargopad?tab=repositories)
+- 👨‍💻 All of my projects are available at [link](https://github.com/eshwargopad?tab=repositories)
 
 - 📫 How to reach me **eshwargopad@gmail.com**
 
