@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eshwar Gopad</h1>
-<h3 align="center">A Passionate Full-Stack Java Developer, Bachelor Of Engineering.</h3>
+<h3 align="center">A Passionate Java Developer, Bachelor Of Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshwargopad&label=Profile%20views&color=0e75b6&style=flat" alt="eshwargopad" /> </p>
 
