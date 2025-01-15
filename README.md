@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshwargopad&label=Profile%20views&color=0e75b6&style=flat" alt="eshwargopad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshwargopad" alt="eshwargopad" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=eshwargopad" alt="eshwargopad" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/eshwargopad" target="blank"><img src="https://img.shields.io/twitter/follow/eshwargopad?logo=twitter&style=for-the-badge" alt="eshwargopad" /></a> </p>
 
