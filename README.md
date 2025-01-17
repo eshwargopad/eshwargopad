@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **amazon-prime-login-clone**
 
-- 🌱 I’m currently learning **Full-Stack Java Development , JavaFX , Maven , MySQL , JDBC , Spring , Spring Boot , AOP , Spring Security , Hibernate , Rest API**
+- 🌱 I’m currently learning **Full-Stack Java Development , JavaFX , Maven , MySQL , JDBC , Spring , Spring Boot , AOP , Spring Security , Hibernate , Rest API**,**java swing**
 
 - 👨‍💻 All of my projects are available at [link](https://github.com/eshwargopad?tab=repositories)
 
